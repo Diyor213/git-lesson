@@ -5,3 +5,4 @@ qoshish
 funksiyasi
 bolish
 kerak
+
